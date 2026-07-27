@@ -60,7 +60,7 @@ The final robot successfully pushed a payload exceeding 5 pounds.
 ## Repository Structure
 
 ```text
-arduino-roadway-clearing-robot/
+Fundamentals_of_Engineering_II_Project/
 ├── README.md
 ├── SnowRoomba/
 │   └── SnowRoomba.ino
