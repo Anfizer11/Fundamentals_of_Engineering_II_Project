@@ -37,7 +37,7 @@ The robot was programmed in C++ using the Arduino IDE. The control software coor
 
 ## Circuitry
 
-![Robot circuitry](images/internal_circuitry.jpg)
+![Robot circuitry](images/circuitry.jpg)
 
 The final robot successfully pushed a payload exceeding 5 pounds.
 
