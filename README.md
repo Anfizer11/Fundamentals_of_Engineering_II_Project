@@ -62,8 +62,8 @@ The final robot successfully pushed a payload exceeding 5 pounds.
 ```text
 arduino-roadway-clearing-robot/
 ├── README.md
-├── src/
-│   └── snowroomba.ino
+├── SnowRoomba/
+│   └── SnowRoomba.ino
 ├── images/
     ├── completed_robot.jpg
     └── circuitry.jpg
